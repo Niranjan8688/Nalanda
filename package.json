@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "aws-serverless-express": "^3.4.0",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-async-handler": "^1.2.0",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.8.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.1",
+    "mongoose-unique-validator": "^4.0.0",
+    "nodemon": "^3.1.3"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "nalnada",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
