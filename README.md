@@ -40,4 +40,5 @@ This project is a library management system that includes  a RESTful API built w
 1. **Clone the repository:**
 
    ```bash
+   git remote add origin https://github.com/Niranjan8688/Nalanda.git
    cd library-management-system
